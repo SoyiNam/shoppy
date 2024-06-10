@@ -1,0 +1,49 @@
+[
+  {
+    "id": "121234",
+    "name": "Gold CoTTon Tweed 드레스",
+    "price": "120000",
+    "img": "/images/1.webp"
+  },
+  {
+    "id": "1212234",
+    "name": "Gold CoTTon Tweed 드레스",
+    "price": "120000",
+    "img": "/images/2.webp"
+  },
+  {
+    "id": "121232324",
+    "name": "미니멀 타이트핏 블레이저 ZW COLLECTION",
+    "price": "120000",
+    "img": "/images/3.webp"
+  },
+  {
+    "id": "1543434",
+    "name": "Gold CoTTon Tweed 드레스",
+    "price": "120000",
+    "img": "/images/4.webp"
+  },
+  {
+    "id": "23424214",
+    "name": "Gold CoTTon Tweed 드레스",
+    "price": "120000",
+    "img": "/images/5.webp"
+  },
+  {
+    "id": "67624214",
+    "name": "스트레치 비스코스 드레스",
+    "price": "150000",
+    "img": "/images/6.webp",
+    "feature": [
+      "스트레스 비스코스 드레스",
+      "터틀넥",
+      "자카드 스트라이프 디테일"
+    ]
+  },
+  {
+    "id": "9094214",
+    "name": "스트럭처 크롭 재킷 ZW COLLECTION",
+    "price": "120000",
+    "img": "/images/7.webp"
+  }
+]
